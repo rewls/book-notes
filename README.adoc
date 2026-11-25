@@ -3,3 +3,4 @@
 * link:the-fall.adoc[전락]
 * link:what-men-live-by.adoc[사람은 무엇으로 사는가]
 * link:ivan-the-fool.adoc[바보 이반]
+* link:the-giants-notes.adoc[거인의 노트]
